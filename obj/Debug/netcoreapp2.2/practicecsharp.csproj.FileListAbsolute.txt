@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\practicecsharp.deps.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\practicecsharp.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\practicecsharp.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\practicecsharp.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\practicecsharp.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.pdb
