@@ -1,22 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+///////////////////////Dynamic////////////////////////////////////////////////////////////////
 
-namespace practicecsharp
+using System;
+
+namespace Practicecsharp
 {
-
-    class Dynamic
-    {
-        static void Main(string[] args)
-        {
-            dynamic something = 100;
-            Console.WriteLine(something);
-            something = "string";
-            Console.WriteLine(something);
-            something = new { name = "shubho", age = 30 };
-            Console.WriteLine(something);
-        }
-    }
-           
-
+	public class Dynamic
+	{
+		
+		public static void Main()
+		{
+			//no fixed data type, rather dynamic data type based on value assignment
+			
+			dynamic somevariable=100;
+			somevariable="this is now string";
+			somevariable=true;
+			somevariable=new {name="shubho", age=33};
+			
+			Console.WriteLine(somevariable);   
+			
+		}
+	}
 }

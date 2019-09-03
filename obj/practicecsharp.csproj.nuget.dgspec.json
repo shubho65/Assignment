@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\ConsoleApp1\\ConsoleApp1\\practicecsharp.csproj": {}
+    "G:\\2.asp.net\\VersionControl\\ConsoleApp1\\practicecsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\ConsoleApp1\\ConsoleApp1\\practicecsharp.csproj": {
+    "G:\\2.asp.net\\VersionControl\\ConsoleApp1\\practicecsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ConsoleApp1\\ConsoleApp1\\practicecsharp.csproj",
+        "projectUniqueName": "G:\\2.asp.net\\VersionControl\\ConsoleApp1\\practicecsharp.csproj",
         "projectName": "practicecsharp",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ConsoleApp1\\ConsoleApp1\\practicecsharp.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectPath": "G:\\2.asp.net\\VersionControl\\ConsoleApp1\\practicecsharp.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "G:\\2.asp.net\\VersionControl\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

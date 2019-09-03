@@ -1,3 +1,5 @@
+/////implicit type variable
+
 using System;
 
 namespace Practicecsharp
@@ -369,3 +371,8 @@ namespace Practicecsharp
 	}
 	
 }
+
+
+
+
+

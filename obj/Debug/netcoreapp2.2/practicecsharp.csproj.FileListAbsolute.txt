@@ -9,3 +9,14 @@ C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\pract
 C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.AssemblyInfo.cs
 C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.dll
 C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.pdb
+G:\2.asp.net\VersionControl\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.csprojAssemblyReference.cache
+G:\2.asp.net\VersionControl\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.csproj.CoreCompileInputs.cache
+G:\2.asp.net\VersionControl\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.AssemblyInfoInputs.cache
+G:\2.asp.net\VersionControl\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.AssemblyInfo.cs
+G:\2.asp.net\VersionControl\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.dll
+G:\2.asp.net\VersionControl\ConsoleApp1\obj\Debug\netcoreapp2.2\practicecsharp.pdb
+G:\2.asp.net\VersionControl\ConsoleApp1\bin\Debug\netcoreapp2.2\practicecsharp.deps.json
+G:\2.asp.net\VersionControl\ConsoleApp1\bin\Debug\netcoreapp2.2\practicecsharp.runtimeconfig.json
+G:\2.asp.net\VersionControl\ConsoleApp1\bin\Debug\netcoreapp2.2\practicecsharp.runtimeconfig.dev.json
+G:\2.asp.net\VersionControl\ConsoleApp1\bin\Debug\netcoreapp2.2\practicecsharp.dll
+G:\2.asp.net\VersionControl\ConsoleApp1\bin\Debug\netcoreapp2.2\practicecsharp.pdb
